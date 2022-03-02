@@ -17,7 +17,6 @@ git clone https://github.com/Vedabahu/Vedabahu.github.io
 git clone git@github.com:Vedabahu/Vedabahu.github.io
 # or just download the zip file
 ```
-
 - Open [`docs/index.html`](./docs/index.html)
 
 ## Contributers
