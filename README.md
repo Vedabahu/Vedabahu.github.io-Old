@@ -1,7 +1,7 @@
 # Vedabahu's Website
 
 [![Github Status of Repo](https://img.shields.io/badge/Status-Inactive-red?style=flat-square&logo=aiqfome&logoColor=cyan)](https://github.com/Vedabahu/Vedabahu.github.io)
-[![GitHub](https://img.shields.io/github/license/Vedabahu/vedabahu.github.io?color=cyan&label=License&style=flat-square&logo=artifact%20hub&logoColor=cyan)](./License)
+[![GitHub](https://img.shields.io/github/license/Vedabahu/vedabahu.github.io?color=cyan&label=License&style=flat-square&logo=artifact%20hub&logoColor=cyan)](https://github.com/Vedabahu/Vedabahu.github.io/blob/professional/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/vedabahu/vedabahu.github.io?style=flat-square&logo=asana&logoColor=cyan)](https://github.com/Vedabahu/Vedabahu.github.io/commits/professional)
 [![GitHub repo size](https://img.shields.io/github/repo-size/vedabahu/vedabahu.github.io?style=flat-square&logo=beats&logoColor=cyan)](https://github.com/Vedabahu/Vedabahu.github.io)
 
